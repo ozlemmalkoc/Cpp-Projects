@@ -1,0 +1,11 @@
+    P    
+   PPP   
+  P.PPP  
+ P.P.PPP 
+...PPPPPP
+ PPPP.PP 
+  PPP.P  
+   PPP   
+    P    
+7
+5
